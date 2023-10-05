@@ -14,6 +14,6 @@ public class Desafio3 {
         if(numerosPositivos)
             System.out.println("\nTodos os números são positivos.");
         else
-            System.out.println("\nTodos os números não são positivos.");
+            System.out.println("\nEsta lista possui número negativo.");
     }
 }
